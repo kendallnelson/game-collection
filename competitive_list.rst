@@ -7,6 +7,7 @@ Two Player
 * En Garde
 * Hounded
 * Let's Kill
+
   * Pretty Corpse Expansion
   * Crime Scene Investigation Expansion
 * Quoridor
@@ -32,6 +33,7 @@ Max 4 Players
 * Set Junior
 * Settlers of Catan
 * Takenoko
+
   * Chibis Expansion
 * Trash Pandas
 * Uncle Wiggly
@@ -46,6 +48,7 @@ Max 5 Players
 * Guillotine
 * Hisss
 * Machi Koro
+
   * Harbor Expansion
   * Millionaire's Row Expansion
 * Scythe
@@ -68,9 +71,11 @@ Max 6 Players
 7+ Players
 -----------
 * Camel Up (10 players)
+
   * Camel Up SuperCup
 * Competition Kitchen (8 Players)
 * Elder Sign (8 players)
+
   * Unforseen Forces Expansion
 * Give me the Brain! (8 players)
 * Monopoly (8 Players)
