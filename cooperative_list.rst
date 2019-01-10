@@ -11,6 +11,7 @@ Max 4 Players
 * Forbidden Island
 * Gloomhaven
 * Harry Potter: Hogwarts Battle
+  
   * Monster Book of Monsters
 * Mechs vs Minions
 * Pandemic
@@ -25,6 +26,7 @@ Max 5 Players
 * The Captain is Dead
 * Forbidden Sky
 * The Grizzled
+  
   * At Your Orders! Expansion
 * Hanabi
 * Sentinels of the Multiverse
@@ -34,6 +36,7 @@ Max 6 Players
 * Dragonfire
 * The Oregon Trail Card Game
 * Spaceteam
+  
   * NSFS Expansion
 
 7+ Players
